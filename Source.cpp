@@ -29,6 +29,6 @@ void printPrime(int n)
 
 int main()
 {
-    int n = 50;
+    int n = 5500;
     printPrime(n);
 }
